@@ -21,3 +21,20 @@ body {
 .e-bigger {
     font-size: x-large;
 }
+.e-btn-group.custom-rbt-group{
+    width:100%;
+}
+.e-btn-group.custom-rbt-group .e-btn {
+    width: 50%;
+}
+.custom-rbt-group label.e-btn{
+    box-shadow:none !important;
+    border:1px solid #fff;
+    background-color:rgb(34 43 51);
+    color:#fff;
+}
+.e-btn-group.custom-rbt-group inpu:checked + label.e-btn {
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #212b36;
+}
