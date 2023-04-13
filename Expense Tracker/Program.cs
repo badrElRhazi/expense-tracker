@@ -8,6 +8,10 @@ builder.Services.AddControllersWithViews();
  //Dependencies Injection
  builder.Services.AddDbContext<ApplicationDbContext>(options=>
  options.UseSqlServer(builder.Configuration.GetConnectionString("TrackerConnection")));
+
+//Register Syncfusion license
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2VFhhQlJBfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn5Xd0ZiWXtacXVQRGRf");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
