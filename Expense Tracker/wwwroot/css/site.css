@@ -38,3 +38,8 @@ body {
     background-color: #fff;
     color: #212b36;
 }
+/*WIDGET*/
+.widget{
+    border-radius:1rem;
+    background-color: #1a222b;
+}
