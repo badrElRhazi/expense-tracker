@@ -30,15 +30,14 @@
             </div>
             <ejs-button id="submit" content="submit" content="Submit" cssClass="e-success"></ejs-button>
         </form>
+        </div> 
+    </div>
+    <div class="col-md-5">
+        <div class="widget h-100 d-flex justify-content-center align-items-center" style="background-color:#212b36">
+            <i class="fa-solid fa-shapes fa-2xl"></i>
         </div>
-        
     </div>
 </div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
