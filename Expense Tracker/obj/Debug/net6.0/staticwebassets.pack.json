@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
       "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -243,6 +251,14 @@
     {
       "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "D:\\programming\\MVC ASP.NET\\projects\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg",
+      "PackagePath": "staticwebassets\\profile.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props",

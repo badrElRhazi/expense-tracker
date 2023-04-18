@@ -34,6 +34,6 @@ namespace Expense_Tracker.Models
                 return ((Category == null || Category.Title=="Expense") ? "- " : "+") +Amount.ToString("c0");
             }
         }
-
+        
     }
 }
